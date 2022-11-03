@@ -1,0 +1,34 @@
+DETAILS OF Person
+Name: farhan
+Mobile: 9191919191
+Age: 21
+Address 
+ PlotNo: 24
+ State: TamilNadu
+ Pincode: 623536
+--------------------
+DETAILS OF Employee
+Name: rajeev
+Mobile: 9191919191
+Age: 21
+Address 
+ PlotNo: 14
+ State: Rajastan
+ Pincode: 782191
+Bank Account 
+ Account Number: 611618812
+ Ifsc: IOBA001279
+ Bank Name: IOB
+--------------------
+DETAILS OF Client
+Name: Dibya
+Mobile: 9191919191
+Age: 22
+Address 
+ PlotNo: 14
+ State: Odissa
+ Pincode: 989123
+Company Details 
+ Name: GeekyAnts
+ Address: Bangalore
+--------------------

@@ -1,0 +1,7 @@
+name: farhan
+mobile: 9191919191
+age: 21
+address.plotno: 24
+address.city: Rameshwaram
+address.state: TamilNadu
+address.pincode: 623536

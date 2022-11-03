@@ -1,0 +1,10 @@
+name: rajeev
+mobile: 9191919191
+age: 21
+address.plotno: 14
+address.city: Rajastan
+address.state: Rajastan
+address.pincode: 782191
+bankaccount.accountno: 611618812
+bankaccount.ifsc: IOBA001279
+bankaccount.bankname: IOB

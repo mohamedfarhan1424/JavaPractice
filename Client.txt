@@ -1,0 +1,9 @@
+name: Dibya
+mobile: 9191919191
+age: 22
+address.plotno: 14
+address.city: Bhuvaneshwar
+address.state: Odissa
+address.pincode: 989123
+company.name: GeekyAnts
+company.address: Bangalore
