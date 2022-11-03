@@ -41,11 +41,11 @@ public class Main {
             switch (choice) {
                 case 1:
                     services.addUser();
-                    System.out.println("User Created Successfully");
+
                     break;
                 case 2:
                     services.updateUser();
-                    System.out.println("User updated Successfully");
+
                     break;
                 case 3:
                     services.deleteUser();
