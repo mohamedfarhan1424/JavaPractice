@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0dc4fd6-58e3-48a1-8966-d953afe2f681" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/dinesh/PerfectNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dinesh/ReverseNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/corejava/miniproject/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/miniproject/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/corejava/miniproject/services/UserServiceImplement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/miniproject/services/UserServiceImplement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -44,7 +44,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "settings.editor.selected.configurable": "vcs.Git"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -53,7 +53,7 @@
       <recent name="FileIO" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.corejava.miniproject.Main">
+  <component name="RunManager" selected="Application.PerfectNumber">
     <configuration name="FileIO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FileIO.FileIO" />
       <module name="Practicing Java" />
@@ -80,6 +80,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PerfectNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dinesh.PerfectNumber" />
+      <module name="Practicing Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dinesh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dinesh.ReverseNumber" />
+      <module name="Practicing Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dinesh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="corejava.miniproject.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="corejava.miniproject.Main" />
       <module name="Practicing Java" />
@@ -95,6 +121,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PerfectNumber" />
+        <item itemvalue="Application.ReverseNumber" />
         <item itemvalue="Application.corejava.miniproject.Main" />
         <item itemvalue="Application.FileIO" />
         <item itemvalue="Application.Main" />
